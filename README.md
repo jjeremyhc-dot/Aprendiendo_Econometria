@@ -7,5 +7,7 @@
 
 > [!NOTE]
 > La Base de datos tambien tiene algunos errores en los nombramientos o el tipo de variable, que fui corrigiendo, porque lo copie a mano y no directamente.
+
 > Se veran demasiados errores, pero espero que con el tiempo esto sirva de archivo para ver mi progreso en la Econometría, programación y el propio Git/Github durante el tiempo.
+
 > Espero inciar un proyecto serio próximanente.
