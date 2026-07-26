@@ -1,4 +1,4 @@
-##Aprendiendo Econometría
+## Aprendiendo Econometría
 > [!NOTE]
 > Este respositorio es de aprendizaje, un proceso de mi aprendizaje en econometría.
 
